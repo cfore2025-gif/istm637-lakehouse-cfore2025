@@ -1,0 +1,51 @@
+well_id,well_name,operator,field_name,basin,state,county,target_formation,well_type,lateral_length_ft,latitude,longitude,spud_date,completion_date,status,initial_oil_potential_bopd
+WELL-0001,Reeves 6-9H,EOG Resources,Permian South,Permian Basin,TX,Reeves,Wolfcamp A,Horizontal,9750,32.41671,-103.84613,2023-12-06,2024-05-13,Producing,1254
+WELL-0002,Midland 28-13,Devon Energy,Permian West,Permian Basin,TX,Midland,Spraberry,Directional,10550,31.94215,-102.97667,2023-08-01,2024-04-08,Shut-in,1599
+WELL-0003,McKenzie 1-25H,Marathon Oil,Bakken Central,Bakken,ND,McKenzie,Three Forks,Horizontal,9100,48.38438,-102.66462,2023-02-08,2024-02-09,Producing,1177
+WELL-0004,Midland 23-33,ConocoPhillips,Permian North,Permian Basin,TX,Midland,Spraberry,Vertical,0,31.49912,-102.53088,2024-04-15,2024-09-04,Producing,500
+WELL-0005,La Salle 5-11H,Occidental,Eagle East,Eagle Ford,TX,La Salle,Eagle Ford,Horizontal,8150,28.71317,-97.89819,2023-11-09,2024-02-22,Producing,1402
+WELL-0006,Karnes 26-30H,Devon Energy,Eagle West,Eagle Ford,TX,Karnes,Austin Chalk,Horizontal,7100,29.17167,-97.90178,2024-02-25,2024-05-05,Shut-in,676
+WELL-0007,Karnes 26-30H,Occidental,Eagle Central,Eagle Ford,TX,Karnes,Austin Chalk,Horizontal,8300,29.01993,-98.52516,2023-06-09,2024-01-04,Shut-in,760
+WELL-0008,Weld 3-8,Coterra,DJ West,DJ Basin,CO,Weld,Niobrara,Vertical,0,40.60691,-104.58376,2024-02-16,2024-04-26,Producing,481
+WELL-0009,Reeves 4-9,Marathon Oil,Permian East,Permian Basin,TX,Reeves,Spraberry,Directional,10450,31.49841,-102.58962,2024-01-26,2024-05-22,Producing,715
+WELL-0010,Adams 21-32,EOG Resources,DJ North,DJ Basin,CO,Adams,Codell,Directional,7050,40.58585,-104.85063,2024-04-14,2024-08-17,Producing,788
+WELL-0011,Martin 28-2H,Coterra,Permian West,Permian Basin,TX,Martin,Spraberry,Horizontal,11900,31.39411,-102.61284,2023-10-28,2024-02-06,Producing,1125
+WELL-0012,La Salle 23-28H,Coterra,Eagle North,Eagle Ford,TX,La Salle,Eagle Ford,Horizontal,9900,28.59764,-97.87417,2023-10-03,2024-04-27,Shut-in,679
+WELL-0013,Weld 35-34,EOG Resources,DJ Central,DJ Basin,CO,Weld,Niobrara,Vertical,0,40.71582,-104.54457,2024-02-05,2024-06-25,Producing,1511
+WELL-0014,Dunn 24-32H,Devon Energy,Bakken East,Bakken,ND,Dunn,Three Forks,Horizontal,9000,48.17102,-103.66338,2024-03-02,2024-04-25,Shut-in,368
+WELL-0015,Adams 34-8,Diamondback,DJ West,DJ Basin,CO,Adams,Codell,Directional,11550,40.02024,-104.02854,2023-03-18,2024-03-22,Producing,1162
+WELL-0016,Martin 20-5,Marathon Oil,Permian East,Permian Basin,TX,Martin,Spraberry,Directional,7050,32.11393,-102.61527,2023-05-21,2024-04-15,Producing,1287
+WELL-0017,Howard 16-12,EOG Resources,Permian West,Permian Basin,TX,Howard,Bone Spring,Vertical,0,31.35315,-101.61824,2023-12-15,2024-03-03,Producing,555
+WELL-0018,La Salle 37-1,Coterra,Eagle East,Eagle Ford,TX,La Salle,Eagle Ford,Vertical,0,29.04042,-97.4008,2023-02-20,2024-03-15,Producing,1036
+WELL-0019,Lea 2-9H,Devon Energy,Delaware East,Delaware Basin,NM,Lea,Wolfcamp A,Horizontal,8350,32.49031,-103.29863,2023-11-14,2024-01-24,Producing,899
+WELL-0020,McKenzie 6-31H,EOG Resources,Bakken Central,Bakken,ND,McKenzie,Middle Bakken,Horizontal,8200,48.09042,-103.35831,2023-06-21,2024-02-23,Shut-in,1436
+WELL-0021,Eddy 33-8,Occidental,Delaware North,Delaware Basin,NM,Eddy,Avalon,Directional,11750,32.60464,-103.63993,2023-07-19,2024-04-09,Producing,1306
+WELL-0022,Midland 34-20H,Coterra,Permian West,Permian Basin,TX,Midland,Wolfcamp B,Horizontal,10100,31.58857,-101.53756,2023-02-04,2024-01-22,Producing,458
+WELL-0023,Lea 35-3H,Pioneer Natural,Delaware West,Delaware Basin,NM,Lea,Bone Spring,Horizontal,11650,32.32624,-103.88146,2023-10-28,2024-03-17,Producing,403
+WELL-0024,Howard 24-30H,Pioneer Natural,Permian North,Permian Basin,TX,Howard,Wolfcamp B,Horizontal,7700,31.8095,-103.38353,2024-01-10,2024-04-13,Producing,1403
+WELL-0025,Eddy 34-35H,Marathon Oil,Delaware Central,Delaware Basin,NM,Eddy,Bone Spring,Horizontal,11650,32.27377,-103.22771,2024-04-10,2024-07-20,Producing,1081
+WELL-0026,Howard 11-19,Coterra,Permian South,Permian Basin,TX,Howard,Spraberry,Vertical,0,31.04829,-102.49408,2024-06-21,2024-09-19,Producing,558
+WELL-0027,Adams 11-26,Devon Energy,DJ South,DJ Basin,CO,Adams,Niobrara,Vertical,0,40.77045,-104.6643,2024-05-03,2024-06-20,Shut-in,630
+WELL-0028,DeWitt 34-19H,ConocoPhillips,Eagle South,Eagle Ford,TX,DeWitt,Austin Chalk,Horizontal,7900,28.39632,-98.1075,2023-09-24,2024-01-15,Producing,865
+WELL-0029,Martin 31-29H,Coterra,Permian South,Permian Basin,TX,Martin,Spraberry,Horizontal,9700,31.55349,-103.10627,2023-11-27,2024-01-18,Producing,582
+WELL-0030,Martin 1-35H,Marathon Oil,Permian Central,Permian Basin,TX,Martin,Wolfcamp A,Horizontal,8650,32.01537,-102.55211,2024-01-06,2024-04-09,Producing,844
+WELL-0031,Lea 20-2,Occidental,Delaware East,Delaware Basin,NM,Lea,Wolfcamp A,Vertical,0,32.74294,-103.71261,2023-10-10,2024-01-23,Producing,1378
+WELL-0032,DeWitt 31-26H,Occidental,Eagle West,Eagle Ford,TX,DeWitt,Eagle Ford,Horizontal,7300,28.33309,-97.47722,2023-06-02,2024-01-02,Producing,1375
+WELL-0033,DeWitt 4-17,Occidental,Eagle South,Eagle Ford,TX,DeWitt,Eagle Ford,Vertical,0,29.06139,-98.87712,2023-03-24,2024-02-02,Producing,1485
+WELL-0034,Weld 25-6H,Diamondback,DJ East,DJ Basin,CO,Weld,Codell,Horizontal,9750,40.68274,-104.20434,2023-02-03,2024-01-02,Shut-in,350
+WELL-0035,La Salle 33-5,Diamondback,Eagle North,Eagle Ford,TX,La Salle,Eagle Ford,Directional,12050,28.50254,-97.41709,2023-07-22,2024-03-04,Producing,815
+WELL-0036,Karnes 19-29H,Coterra,Eagle Central,Eagle Ford,TX,Karnes,Eagle Ford,Horizontal,7800,28.45431,-98.89348,2023-04-10,2024-02-16,Producing,829
+WELL-0037,Weld 29-34,ConocoPhillips,DJ South,DJ Basin,CO,Weld,Niobrara,Vertical,0,40.05049,-104.37228,2023-10-18,2024-02-17,Shut-in,458
+WELL-0038,Eddy 25-15H,ConocoPhillips,Delaware West,Delaware Basin,NM,Eddy,Avalon,Horizontal,11050,32.20594,-103.72084,2023-06-29,2024-01-12,Producing,1352
+WELL-0039,DeWitt 2-15,Occidental,Eagle West,Eagle Ford,TX,DeWitt,Eagle Ford,Directional,12200,29.1726,-98.31028,2024-05-17,2024-09-23,Shut-in,723
+WELL-0040,Karnes 16-9,EOG Resources,Eagle South,Eagle Ford,TX,Karnes,Eagle Ford,Vertical,0,29.35789,-97.64997,2023-11-04,2024-02-03,Producing,996
+WELL-0041,Mountrail 21-24,Diamondback,Bakken East,Bakken,ND,Mountrail,Three Forks,Vertical,0,47.93599,-103.38295,2024-03-04,2024-05-07,Producing,484
+WELL-0042,Dunn 14-14H,Pioneer Natural,Bakken Central,Bakken,ND,Dunn,Three Forks,Horizontal,7700,47.51162,-103.14136,2024-04-20,2024-09-06,Producing,1595
+WELL-0043,Dunn 5-4H,Marathon Oil,Bakken East,Bakken,ND,Dunn,Three Forks,Horizontal,9250,47.87726,-102.40639,2023-09-26,2024-01-13,Producing,805
+WELL-0044,Adams 8-26H,ConocoPhillips,DJ East,DJ Basin,CO,Adams,Niobrara,Horizontal,8600,40.62075,-104.6601,2023-07-26,2024-03-17,Producing,1522
+WELL-0045,Mountrail 17-17H,Pioneer Natural,Bakken South,Bakken,ND,Mountrail,Three Forks,Horizontal,8600,47.67174,-103.78145,2023-04-17,2024-04-06,Shut-in,427
+WELL-0046,McKenzie 16-17H,Devon Energy,Bakken West,Bakken,ND,McKenzie,Three Forks,Horizontal,8450,47.67541,-103.25674,2023-12-03,2024-01-29,Producing,785
+WELL-0047,Reeves 19-10H,ConocoPhillips,Permian North,Permian Basin,TX,Reeves,Wolfcamp B,Horizontal,9600,31.56895,-101.85629,2023-11-07,2024-01-05,Shut-in,1052
+WELL-0048,Midland 10-21H,Marathon Oil,Permian North,Permian Basin,TX,Midland,Bone Spring,Horizontal,7450,31.76535,-102.31468,2024-01-12,2024-05-28,Producing,855
+WELL-0049,Karnes 24-25H,Devon Energy,Eagle North,Eagle Ford,TX,Karnes,Eagle Ford,Horizontal,11350,29.30899,-98.80396,2024-02-10,2024-05-16,Producing,400
+WELL-0050,Lea 4-28H,Coterra,Delaware East,Delaware Basin,NM,Lea,Wolfcamp A,Horizontal,7550,32.69682,-103.79148,2023-01-23,2024-02-27,Shut-in,1257
