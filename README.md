@@ -1,1 +1,1 @@
-*** You have this! - Prof. Jamey ***
+## You have this! - Prof. Jamey
